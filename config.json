@@ -9,7 +9,7 @@
                "enabled": "1"
            },
           "CB01":{
-              "url": "https://cb01.uno",
+              "url": "https://cb01uno.icu",
               "CB_PROXY":"0",
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
@@ -17,7 +17,7 @@
               "enabled":"1"
           },
           "Guardaserie":{
-              "url": "https://guardaserietv.asia",
+              "url": "https://guardoserie.im",
               "enabled":"1",
               "GS_ForwardProxy":"0",
               "GS_PROXY":"0"
@@ -29,7 +29,7 @@
               "GH_PROXY":"0"
           },
           "Eurostreaming":{
-            "url": "https://eurostreamings.life",
+            "url": "https://eurostreamings.homes",
             "enabled": "1",
             "ES_ForwardProxy": "0",
             "ES_PROXY": "0"
@@ -60,6 +60,12 @@
           },
           "Toonitalia": {
             "url": "https://toonitalia.xyz",
+            "enabled": "1",
+            "TI_ForwardProxy": "0",
+            "TI_PROXY": "0"
+          },
+            "StreamingWatch": {
+            "url": "https://www.streamingwatch.org"
             "enabled": "1",
             "TI_ForwardProxy": "0",
             "TI_PROXY": "0"
